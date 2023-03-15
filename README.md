@@ -3,6 +3,7 @@
 ## Contents
 
 * [About Me](#about-me)
+* [Course Modules]
 * [More info](#more-information)
 
 ### About me
@@ -13,7 +14,12 @@ I've not done much development other than hack scripts together, so keen to lear
 
 I'm interested in finance and technology, such bots, AI/ML and blockchain hence signing up.
 
-#### More information
+### Course Modules
+
+* [Module 1](https://github.com/d4np3/module-1) - Introduction to Fintech
+
+
+### More information
 
 ![Me!](https://media.licdn.com/dms/image/C5603AQHhlgIWE9G86g/profile-displayphoto-shrink_200_200/0/1516874733999?e=1684368000&v=beta&t=xbhjlBuMLi2r-Tdnq4HKVCvz309_iPirjyGPXOLU-bI)
 
