@@ -1,9 +1,9 @@
-# Dan's Fintech Bootcamp Repo
+# Dan's Fintech Bootcamp
 
 ## Contents
 
 * [About Me](#about-me)
-* [Course Modules](#course-module-repos)
+* [Course Module Repos](#course-module-repos)
 * [More info](#more-information)
 
 ### About me
