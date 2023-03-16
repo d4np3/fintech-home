@@ -17,7 +17,7 @@ I'm interested in finance and technology, such bots, AI/ML and blockchain hence 
 
 ### Course Module Repos
 
-* [Module 1](https://github.com/d4np3/module-1) - Introduction to Fintech (with Case Study)
+* [Module 1](https://github.com/d4np3/module-1) - Introduction to Fintech (Case Study)
 
 
 ### More information
