@@ -24,7 +24,7 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 * [Module 1](https://github.com/d4np3/module-1) - Introduction to Fintech (Case Study)
 
 
-### More information
+### More Information
 ***
 
 This is my public github profile [d4np3](https://github.com/d4np3)
