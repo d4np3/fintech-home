@@ -1,6 +1,6 @@
 # Dan's Fintech Bootcamp
 
-## Contents
+### Contents
 ***
 
 * [About Me](#about-me)
