@@ -1,6 +1,7 @@
 # Dan's Fintech Bootcamp
 
 ## Contents
+***
 
 * [About Me](#about-me)
 * [Course Module Repos](#course-module-repos)
