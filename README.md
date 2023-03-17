@@ -6,7 +6,8 @@
 * [Course Module Repos](#course-module-repos)
 * [More info](#more-information)
 
-### About me
+### About Me
+***
 
 ![Me!](https://media.licdn.com/dms/image/C5603AQHhlgIWE9G86g/profile-displayphoto-shrink_200_200/0/1516874733999?e=1684368000&v=beta&t=xbhjlBuMLi2r-Tdnq4HKVCvz309_iPirjyGPXOLU-bI)
 
@@ -18,11 +19,13 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 
 
 ### Course Module Repos
+***
 
 * [Module 1](https://github.com/d4np3/module-1) - Introduction to Fintech (Case Study)
 
 
 ### More information
+***
 
 This is my public github profile [d4np3](https://github.com/d4np3)
 
