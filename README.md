@@ -24,6 +24,7 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 
 * [Module 1](https://github.com/d4np3/module-1) - Introduction to Fintech (Case Study)
 * [Module 2](https://github.com/d4np3/python-homework) - Python Programming Basics (Homework)
+* [Module 4](https://github.com/d4np3/pandas-portfolio) - Pandas Portfolio Assessment (Homework)
 
 ### More Information
 ***
