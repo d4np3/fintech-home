@@ -18,7 +18,6 @@ I've not done much development other than hack scripts together, so keen to lear
 
 I'm interested in finance and technology: Bots, AI/ML and blockchain, hence signing up.
 
-
 ### Course Module Repos
 ***
 
@@ -26,6 +25,7 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 * [Module 2](https://github.com/d4np3/python-homework) - Python Programming Basics (Homework)
 * [Module 4](https://github.com/d4np3/pandas-portfolio) - Pandas Portfolio Assessment (Homework)
 * [Module 5](https://github.com/d4np3/finance-plan) - Financial Planning Assessment (Homework)
+* [Module 6](https://github.com/d4np3/pyviz-analysis) - PyViz Analysis (Homework)
 
 ### More Information
 ***
