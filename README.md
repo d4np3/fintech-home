@@ -10,7 +10,8 @@
 ### About Me
 ***
 
-![Me!](https://media.licdn.com/dms/image/C5603AQHhlgIWE9G86g/profile-displayphoto-shrink_200_200/0/1516874733999?e=1684368000&v=beta&t=xbhjlBuMLi2r-Tdnq4HKVCvz309_iPirjyGPXOLU-bI)
+![Me!](<img src="img/model1.png" width=75% height=75%>)
+
 
 My name is Dan. I have worked in the tech space in systems integration for 20 odd years.
 
