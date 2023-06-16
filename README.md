@@ -10,7 +10,7 @@
 ### About Me
 ***
 
-![Me!]<p>
+<p>
 <img src="img/model1.png" width=75% height=75%> <br />
 </p>
 
