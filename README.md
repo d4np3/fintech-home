@@ -29,6 +29,7 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 * [Module 7](https://github.com/d4np3/sql-analysis) - SQL Analysis (Homework)
 * [Module 10](https://github.com/d4np3/unsup_learn) - Unsupervised Learning (Homework)
 * [Module 11](https://github.com/d4np3/time-series) - Time Series (Homework)
+* [Module 12](https://github.com/d4np3/sup-learn) - Supervised Learning (Homework)
 
 ### More Information
 ***
