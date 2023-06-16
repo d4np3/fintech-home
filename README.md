@@ -11,7 +11,7 @@
 ***
 
 <p>
-<img src="img/model1.png" width=75% height=75%> <br />
+<img src="img/profile.jpg" width=75% height=75%> <br />
 </p>
 
 My name is Dan. I have worked in the tech space in systems integration for 20 odd years.
