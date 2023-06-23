@@ -33,6 +33,7 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 * [Module 11](https://github.com/d4np3/time-series) - Time Series (Homework)
 * [Module 12](https://github.com/d4np3/sup-learn) - Supervised Learning (Homework)
 * [Module 13](https://github.com/d4np3/neural-networks) - Neural Networks (Homework)
+* [Module 14](https://github.com/d4np3/algo-trade) - Algorithmic Trading (Homework)
 
 ### More Information
 ***
