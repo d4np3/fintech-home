@@ -36,6 +36,7 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 * [Module 14](https://github.com/d4np3/algo-trade) - Algorithmic Trading (Homework)
 * [Module 16](https://github.com/d4np3/forex-ml) - Forex Machine Learning (Project)
 * [Module 18](https://github.com/d4np3/pychain) - PyChain Ledger (Homework)
+* [Module 19](https://github.com/d4np3/wallets) - Crypto Wallet (Homework)
 
 ### More Information
 ***
