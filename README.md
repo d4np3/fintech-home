@@ -9,12 +9,7 @@
 
 ### About Me
 ***
-
-<p>
-<img src="img/profile.jpg" width=25% height=25%> <br />
-</p>
-
-My name is Dan. I have worked in the tech space in systems integration for 20 odd years.
+I have worked in the tech space in systems integration for 20 odd years.
 
 I've not done much development other than hack scripts together, so keen to learn more.
 
