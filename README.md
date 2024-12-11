@@ -13,7 +13,7 @@ I have worked in the tech space in systems integration for 20 odd years.
 
 I've not done much development other than hack scripts together, so keen to learn more.
 
-I'm interested in finance and technology: Bots, AI/ML and blockchain, hence signing up.
+I'm interested in finance and technology: Bots, AI/ML and blockchain, hence here we are...
 
 ### Course Module Repos
 ***
@@ -40,4 +40,3 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence sign
 
 This is my public github profile [d4np3](https://github.com/d4np3)
 
-You can find more information about my previous work on my [LinkedIn](https://www.linkedin.com/in/dfp/) page
