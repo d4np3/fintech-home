@@ -9,11 +9,16 @@
 
 ### About Me
 ***
-I have worked in the tech space in systems integration for 20 odd years.
 
-I've not done much development other than hack scripts together, so keen to learn more.
+<p>
+<img src="img/profile.jpg" width=25% height=25%> <br />
+</p>
 
-I'm interested in finance and technology: Bots, AI/ML and blockchain, hence here we are...
+My name is Dan. I have worked in the tech space in systems integration for 25+ years.
+
+I'm interested in finance and technology: Bots, AI/ML and blockchain, hence decided to do this University of Sydney Fintech Course.
+
+Some of the modules below are just Jupyter or Python files. Others have full analysis and reports in the README.
 
 ### Course Module Repos
 ***
@@ -40,3 +45,4 @@ I'm interested in finance and technology: Bots, AI/ML and blockchain, hence here
 
 This is my public github profile [d4np3](https://github.com/d4np3)
 
+You can find more information about my previous work on my [LinkedIn](https://www.linkedin.com/in/dfp/) page
