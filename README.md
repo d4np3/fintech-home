@@ -10,15 +10,15 @@
 ### About Me
 ***
 
-<p>
+<!-- <p>
 <img src="img/profile.jpg" width=25% height=25%> <br />
-</p>
+</p> -->
 
 My name is Dan. I have worked in the tech space in systems integration for 25+ years.
 
 I'm interested in finance and technology: Bots, AI/ML and blockchain, hence decided to do this University of Sydney Fintech Course.
 
-Some of the modules below are just Jupyter or Python files. Others have full analysis and reports in the README.
+Some of the modules below are just Jupyter or Python files. Others have full analysis and reports in the README as well.
 
 ### Course Module Repos
 ***
